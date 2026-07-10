@@ -1,6 +1,6 @@
 # Scripting Scripts
 
-> 一个适用于 **Scripting** 的脚本合集，收录使用 GPT 协助开发的 Scripting 脚本，涵盖视频、漫画、实用工具等多个类别，并持续更新。
+> 一个适用于 **Scripting** 的脚本合集，收录我使用 GPT 协助开发的 Scripting 脚本，涵盖视频、漫画、实用工具等多个类别，并持续更新。
 
 使用 **JavaScript / TypeScript** 在 iPhone 和 iPad 上构建自动化工具、Widget、快捷指令扩展以及更多实用功能。
 
