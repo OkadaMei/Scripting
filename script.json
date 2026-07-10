@@ -1,0 +1,41 @@
+{
+  "color" : "rgba(255, 45, 85,1)",
+  "permissions" : null,
+  "description" : "GiriGiri 动漫浏览脚本，支持公开浏览、搜索、详情与字幕剧集、系统播放、逐集离线下载、HLS 无损封装 MP4 \/ 离线包、本地播放、收藏与观看历史。",
+  "localizedNames" : {
+    "fr" : "",
+    "es" : "",
+    "ru" : "",
+    "it" : "",
+    "ja" : "",
+    "en" : "GiriGiri Anime",
+    "pt" : "",
+    "de" : "",
+    "zh" : "GiriGiri 动漫"
+  },
+  "contributors" : [
+
+  ],
+  "intentInputTypes" : [
+
+  ],
+  "author" : null,
+  "remoteResource" : null,
+  "icon" : "play.rectangle.fill",
+  "iconImage" : "",
+  "localizedDescriptions" : {
+    "es" : "",
+    "en" : "GiriGiri anime browser for public browsing, search, title details, subtitle episodes, system playback, per-episode offline downloads, HLS-to-MP4 remuxing or offline packages, local playback, favorites, and watch history.",
+    "de" : "",
+    "fr" : "",
+    "it" : "",
+    "pt" : "",
+    "ja" : "",
+    "ru" : "",
+    "zh" : "GiriGiri 动漫浏览脚本，支持公开浏览、搜索、详情与字幕剧集、系统播放、逐集离线下载、HLS 无损封装 MP4 \/ 离线包、本地播放、收藏与观看历史。"
+  },
+  "name" : "girigirilove",
+  "runInApp" : false,
+  "entry" : "index.tsx",
+  "version" : "2.7.0"
+}
