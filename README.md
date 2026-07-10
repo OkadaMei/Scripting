@@ -33,9 +33,12 @@ https://apps.apple.com/tr/app/scripting/id6479691128
 
 ## 📂 Scripts
 
-| 名称 | 简介 | 状态 |
-|------|------|------|
-| Coming Soon | 更多脚本正在整理中…… | 🚧 |
+| Script | Description | Install |
+|--------|-------------|---------|
+| **GiriGiri 动漫** | 一个简洁的在线视频浏览脚本。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/girigirilove.scripting%22%5D) |
+| **Bangumi Beta** | Bangumi 客户端 Beta 版本。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/Bangumi%2520Beta.scripting%22%5D) |
+
+> 点击 **安装** 即可通过 Scripting 导入对应脚本。
 
 > 每个脚本均位于独立目录，并包含对应的源码及资源文件。
 
