@@ -1,0 +1,45 @@
+{
+  "permissions" : null,
+  "description" : "Bangumi Beta：浏览 Bangumi 时间线、每日放送、发现搜索、收藏进度、超展开、通知与详情内容，并支持 OAuth 登录、收藏状态和章节进度管理。",
+  "icon" : "sparkles",
+  "iconImage" : "",
+  "intentInputTypes" : [
+
+  ],
+  "runInApp" : false,
+  "name" : "Bangumi Beta",
+  "entry" : "index.tsx",
+  "author" : {
+    "email" : null,
+    "name" : "@SakuraAyane",
+    "homepage" : "https:\/\/github.com\/SakuraAyane"
+  },
+  "version" : "1.0.0",
+  "localizedDescriptions" : {
+    "ja" : "",
+    "es" : "",
+    "de" : "",
+    "en" : "Browse Bangumi timelines, calendar, discovery search, collection progress, Rakuen topics, notifications, and details with OAuth login, collection status, and episode progress management.",
+    "pt" : "",
+    "it" : "",
+    "fr" : "",
+    "zh" : "浏览 Bangumi 时间线、每日放送、发现搜索、收藏进度、超展开、通知与详情内容，并支持 OAuth 登录、收藏状态和章节进度管理。",
+    "ru" : ""
+  },
+  "remoteResource" : null,
+  "localizedNames" : {
+    "ja" : "",
+    "de" : "",
+    "pt" : "",
+    "en" : "",
+    "ru" : "",
+    "fr" : "",
+    "zh" : "",
+    "it" : "",
+    "es" : ""
+  },
+  "contributors" : [
+
+  ],
+  "color" : "rgba(255, 48, 0, 1.00)"
+}
