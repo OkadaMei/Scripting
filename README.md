@@ -53,8 +53,6 @@ https://apps.apple.com/tr/app/scripting/id6479691128
 
 欢迎通过 **Issue** 提交 Bug 反馈或功能建议，也欢迎提交 **Pull Request** 一起完善这个仓库。
 
-如果你编写了优秀的 Scripting 脚本，也欢迎一起分享。
-
 ---
 
 ## ⭐ Support
@@ -65,7 +63,7 @@ https://apps.apple.com/tr/app/scripting/id6479691128
 - 🍴 Fork 本仓库
 - 💬 分享给更多 Scripting 用户
 
-你的支持就是持续更新的最大动力 ❤️
+你的支持就是持续更新的最大动力！ ❤️
 
 ---
 
