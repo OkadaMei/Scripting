@@ -31,9 +31,7 @@ https://apps.apple.com/tr/app/scripting/id6479691128
 | Script | Category | Description | Install |
 | :----- | :------: | :---------- | :-----: |
 | **GiriGiri 动漫** | 🎬 视频 | 一个简洁、美观的在线视频浏览脚本。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/github.com%5C/OkadaMei%5C/Scripting%5C/tree%5C/girigirilove-source%22%5D) |
-| **Bangumi Beta** | 📺 动漫 | 基于 Bangumi 的第三方客户端，支持番剧浏览、追番及收藏管理。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/github.com%5C/OkadaMei%5C/Scripting%5C/tree%5C/bangumi-beta-source%22%5D) |
 | **嗶咔漫畫** | 📚 漫画 | 第三方嗶咔漫畫客户端，提供流畅的漫画浏览与阅读体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/%E5%97%B6%E5%92%94%E6%BC%AB%E7%95%AB%20Plus.scripting%22%5D) |
-| **拷貝漫畫** | 📚 漫画 | 第三方拷貝漫畫客户端，支持在线浏览与阅读漫画内容。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/%25E6%258B%25B7%25E8%25B2%259D%25E6%25BC%25AB%25E7%2595%25AB.scripting%22%5D) |
 
 > 点击 **📥 安装** 即可自动打开 **Scripting** 并导入对应脚本。
 
@@ -46,24 +44,6 @@ https://apps.apple.com/tr/app/scripting/id6479691128
 3. 点击 **📥 安装**。
 4. 浏览器将自动跳转至 **Scripting** 并完成导入。
 5. 如脚本需要 API Key 或其他配置，请参考脚本内说明。
-
----
-
-## 🤝 反馈与贡献
-
-欢迎通过 **Issue** 提交 Bug 反馈或功能建议，也欢迎提交 **Pull Request** 一起完善这个仓库。
-
----
-
-## ⭐ Support
-
-如果这个仓库对你有所帮助，欢迎：
-
-- ⭐ Star 本仓库
-- 🍴 Fork 本仓库
-- 💬 分享给更多 Scripting 用户
-
-你的支持就是持续更新的最大动力！ ❤️
 
 ---
 
