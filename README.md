@@ -30,7 +30,7 @@ https://apps.apple.com/tr/app/scripting/id6479691128
 
 | Script | Category | Description | Install |
 | :----- | :------: | :---------- | :-----: |
-| **GiriGiri Glass** | 🎬 视频 | 一个简洁、美观的在线视频浏览脚本。 | [📥 安装]([https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/github.com%5C/OkadaMei%5C/Scripting%5C/tree%5C/girigirilove-source%22%5D](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/girigirilove%2520Glass%2520C.scripting%22%5D)) |
+| **GiriGiri Glass** | 🎬 视频 | 一个简洁、美观的在线视频浏览脚本。 | [📥 安装]([https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/github.com%5C/OkadaMei%5C/Scripting%5C/tree%5C/girigirilove-source%22%5D](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/girigirilove%2520Glass%2520C.scripting%22%5D) |
 | **嗶咔漫畫** | 📚 漫画 | 第三方嗶咔漫畫客户端，提供流畅的漫画浏览与阅读体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/%E5%97%B6%E5%92%94%E6%BC%AB%E7%95%AB%20Plus.scripting%22%5D) |
 | **MISSAV** | 🎬 视频 | 第三方视频浏览脚本，提供简洁流畅的视频搜索、浏览与播放体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/MISSAV.scripting%22%5D) |
 
