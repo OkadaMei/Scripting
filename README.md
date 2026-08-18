@@ -33,6 +33,7 @@ https://apps.apple.com/tr/app/scripting/id6479691128
 | **嗶咔漫畫** | 📚 漫画 | 第三方嗶咔漫畫客户端，提供流畅的漫画浏览与阅读体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/%E5%97%B6%E5%92%94%E6%BC%AB%E7%95%AB%20Plus.scripting%22%5D) |
 | **MISSAV** | 🎬 视频 | 第三方视频浏览脚本，提供简洁流畅的视频搜索、浏览与播放体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/MISSAV.scripting%22%5D) |
 | **GiriGiri Glass** | 🎬 视频 | GiriGiri Glass 版客户端，采用 Liquid Glass 风格界面，提供动漫浏览、Bangumi 联动与离线下载体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/girigirilove%2520Glass%2520C.scripting%22%5D) |
+| GitHub Star | ⭐ GitHub | 使用 GitHub Personal Access Token 管理已 Star 仓库，支持按最新推送时间浏览、刷新与置顶，并提供 Token 管理、顶部菜单/底部标签页及窗口显示模式切换。点击仓库卡片可快速跳转至官方 GitHub 仓库。 | 📥 安装⁠￼ |
 
 ---
 
