@@ -34,7 +34,7 @@ https://apps.apple.com/tr/app/scripting/id6479691128
 | **MISSAV** | 🎬 视频 | 第三方视频浏览脚本，提供简洁流畅的视频搜索、浏览与播放体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/MISSAV.scripting%22%5D) |
 | **GiriGiri Glass** | 🎬 视频 | GiriGiri Glass 版客户端，采用 Liquid Glass 风格界面，提供动漫浏览、Bangumi 联动与离线下载体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/girigirilove%2520Glass%2520C.scripting%22%5D) |
 | **GitHub Star** | ⭐ GitHub | 使用 GitHub Personal Access Token 查看已 Star 仓库，并按最新代码推送时间进行浏览、刷新与置顶管理。支持 Token 管理、顶部菜单或底部标签页布局，以及标准窗口与全面屏显示切换。点击仓库卡片即可快速跳转至官方 GitHub 仓库。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/Github%252520Star.scripting%22%5D) |
-| **诗** | 📖 古典诗词 | **iOS 26+**。一款运行于 Scripting 的中国古典诗词阅读应用，采用简洁的原生 iOS Glass UI 设计。支持浏览、搜索和随机阅读诗词，也可按作者、朝代与体裁查找内容。阅读页面将诗名、作者、朝代、体裁及正文自然居中呈现，提供舒适、专注的阅读体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/Chinese%2520Poetry.scripting%22%5D) |
+| **诗** | 📖 古典诗词 | 一款运行于 Scripting 的中国古典诗词阅读应用，采用简洁的原生 iOS Glass UI 设计。支持浏览、搜索和随机阅读诗词，也可按作者、朝代与体裁查找内容。阅读页面将诗名、作者、朝代、体裁及正文自然居中呈现，提供舒适、专注的阅读体验。 | [📥 安装](https://scripting.fun/import_scripts?urls=%5B%22https:%5C/%5C/raw.githubusercontent.com%5C/OkadaMei%5C/Scripting%5C/main%5C/Chinese%2520Poetry.scripting%22%5D) |
 
 ## 🚀 使用
 
